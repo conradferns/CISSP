@@ -1,4 +1,4 @@
-# CISSP Domain 2 Study Points
+# Domain 2 Key Points
 
 - **Protecting Secrets in Memory**: It’s tough to keep secrets safe in memory since they often end up decrypted on the memory block.
 
